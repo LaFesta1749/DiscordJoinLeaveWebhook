@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35219.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiscordJoinLeaveWebhook", "DiscordJoinLeaveWebhook.csproj", "{BCA94FC6-7E78-4453-B814-63B3C195DE6E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BCA94FC6-7E78-4453-B814-63B3C195DE6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCA94FC6-7E78-4453-B814-63B3C195DE6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCA94FC6-7E78-4453-B814-63B3C195DE6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCA94FC6-7E78-4453-B814-63B3C195DE6E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {262376AA-C312-412C-9E67-D0CFAF8ABE88}
+	EndGlobalSection
+EndGlobal
