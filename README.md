@@ -2,13 +2,4 @@ An Exiled plugin for SCP:Secret Labotary that sends a discord webhook containing
 
 Example config:
 
-discord_join_leave_webhook:
-  is_enabled: true
-  webhook_url: 'https://discord.com/api/webhooks/1278282849899905126/ECg4kVvIzwhC8C60s4ig7TZfMK2_qysRewBFhI5RLrLkQWLnA-OeyMWff0LU43TD6_zg'
-  debug: false
-  time_since_leaving_counter: 5
-  show_player_i_p: false
-  join_message: 'joined the server.'
-  leave_message: 'left the server.'
-  last_role: 'Role'
-  timer: 'Last left the server {minutes} minutes ago.'
+![image](https://github.com/user-attachments/assets/cf5a2e11-f8c0-4496-9ab9-41a8ca0cf2ea)
